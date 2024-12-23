@@ -20,4 +20,4 @@ MIT
 Author Information
 ------------------
 
-Sergey Nikiforov
+thx to nikiforov
